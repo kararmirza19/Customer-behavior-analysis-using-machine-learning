@@ -1,5 +1,5 @@
 # Customer-behavior-analysis-using-machine-learning
-Behavior analysis prediction on customer purchase data using machine learning strategies to find out pattern and predictions.
+Behavior analysis prediction on customer purchase data using data mining and  machine learning strategies to find out pattern & make predictions.
 
 Requrirement 
 Python
